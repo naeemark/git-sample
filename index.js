@@ -8,3 +8,5 @@ console.log('Another statement for AMMEND - making a change for conflict');
 
 console.log('Another statement for on feat-1');
 console.log('Another statement for on feat-1 #2');
+
+console.log('Another statement for on feat-2');
