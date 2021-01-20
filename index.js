@@ -7,3 +7,4 @@ console.log('Another statement from remote');
 console.log('Another statement for AMMEND');
 
 console.log('Another statement for on feat-1');
+console.log('Another statement for on feat-1 #2');
